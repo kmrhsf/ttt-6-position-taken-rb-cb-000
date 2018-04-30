@@ -1,4 +1,5 @@
-array [index] == "X" 
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board [index] == 0 
 
 def position_taken?(array, index)
   if index == 'X' || index == 'O'
