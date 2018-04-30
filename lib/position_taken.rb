@@ -8,4 +8,3 @@ def position_taken?(array, index)
 end
 
 position_taken?(board, 0)
-
