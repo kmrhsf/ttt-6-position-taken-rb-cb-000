@@ -6,3 +6,6 @@ def position_taken?(array, index)
   else index == "" || index == " " || index == "nil"
   end
 end
+
+position_taken?(board, 0)
+
